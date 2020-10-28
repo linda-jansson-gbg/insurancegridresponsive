@@ -1,3 +1,3 @@
 # insurancegridresponsive
 
-Gjorde originalsidan responsiv samt förbättrade koden.
+Övning i grid och flexbox. Uppgiften var att skapa en responsiv sida utifrån en given design.
